@@ -36,7 +36,7 @@ Este projeto é uma demonstração de como manipular planilhas (CSV) no backend 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🧠 Tecnologias utilizadas
 
 * **Backend:** PHP 7.4+ (PHP Puro para manipulação de arquivos e strings).
 * **Frontend:** HTML5, JavaScript Vanilla e `fetch` API.
